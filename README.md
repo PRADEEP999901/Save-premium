@@ -66,7 +66,7 @@ python3 -m Restriction
 
 ## Deploy your bot on `heroku`
 - Star the repo, and fork it in desktop mode
-- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- Click on  [![Deploy](https://dashboard.heroku.com/new?template=https://github.com/PRADEEP999901/Save-premium)](https://heroku.com/deploy)
 - Fill your values and click deploy ✅
 
 ## Terms of USE / Modification 
