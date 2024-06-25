@@ -70,7 +70,7 @@ python3 -m Restriction
 - Fill your values and click deploy ✅
 
 ## Terms of USE / Modification 
-Visit [Terms](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo/blob/main/TERMS_OF_USE.md) and accept the guidelines.
+Visit [Terms](https://github.com/PRADEEP999901/Save-premium/blob/main/TERMS_OF_USE.md) and accept the guidelines.
 
 # Updates
 
