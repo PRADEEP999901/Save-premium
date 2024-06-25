@@ -53,8 +53,8 @@ async def set_rename_command(user_id, custom_rename_tag):
 
 # Function to get the user's custom renaming preference
 def get_user_rename_preference(user_id):
-    # Retrieve the user's custom renaming tag if set, or default to '@devggn'
-    return user_rename_preferences.get(str(user_id), '@devggn')
+    # Retrieve the user's custom renaming tag if set, or default to '@RAJPUT681830'
+    return user_rename_preferences.get(str(user_id), '@RAJPUT681830)
 
 @app.on_message(filters.command("setrename"))
 async def set_rename_command_handler(client, message):
@@ -375,7 +375,7 @@ async def copy_message_with_chat_id(client, sender, chat_id, message_id):
         for word in delete_words:
             final_caption = final_caption.replace(word, '  ')
         
-        caption = f"{final_caption}\n\n__**{custom_caption}**__" if custom_caption else f"{final_caption}\n\n__**[Team SPY](https://t.me/devggn)**__"
+        caption = f"{final_caption}\n\n__**{custom_caption}**__" if custom_caption else f"{final_caption}\n\n__**[Team SPY](https://t.me/RAJPUT681830)**__"
         
         if msg.media:
             if msg.media == MessageMediaType.VIDEO:
